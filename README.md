@@ -1,3 +1,7 @@
 # BooksManagementSystem
-This project is built with php , mysql and bootstrap.
-For storing the Data I have used mySQL.
+
+Built with php , mysql and bootstrap.
+
+Tools - notepad++, Xampp
+
+Aim - To develop a Web-Based Online e-book Shopping system
