@@ -1,6 +1,6 @@
 # BookStoreManagementSystem
 
-Built with php , html, css, mysql and bootstrap.
+Built with PHP, HTML, CSS, MySQL, and bootstrap.
 
 Tools - notepad++, Visual Studio, Xampp
 
