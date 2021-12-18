@@ -1,7 +1,7 @@
-# BooksManagementSystem
+# BookStoreManagementSystem
 
-Built with php , mysql and bootstrap.
+Built with php , html, css, mysql and bootstrap.
 
-Tools - notepad++, Xampp
+Tools - notepad++, Visual Studio, Xampp
 
 Aim - To develop a Web-Based Online e-book Shopping system
