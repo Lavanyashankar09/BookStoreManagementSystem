@@ -1,7 +1,16 @@
 # BookStoreManagementSystem
 
-Built with PHP, HTML, CSS, MySQL, and bootstrap.
+BookStore Management System 📚
+A web-based online e-book shopping system built using PHP, HTML, CSS, MySQL, and Bootstrap.
 
-Tools - notepad++, Visual Studio, Xampp
+🔹 Features:
 
-Aim - To develop a Web-Based Online e-book Shopping system
+User authentication & role-based access
+Inventory management for books
+Secure payment integration (if applicable)
+Responsive UI for a seamless shopping experience
+🔹 Tech Stack:
+
+Frontend: HTML, CSS, Bootstrap
+Backend: PHP, MySQL
+Tools: Notepad++, Visual Studio, XAMPP
